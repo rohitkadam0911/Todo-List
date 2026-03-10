@@ -37,7 +37,7 @@ function TodoManager() {
 
     return (
         <>
-            <div className="text-center mt-20 w-120 h-126 m-auto">
+            <div className="text-center mt-20 sm:w-90 h-126 m-auto">
                 <h2>TO DO LIST</h2>
                 <div className="flex justify-between items-center gap-3 mt-5">
                     <input
